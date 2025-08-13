@@ -1,3 +1,5 @@
 {
-  "/accounting/quickbooks-alternative/page": "app/accounting/quickbooks-alternative/page.js"
+  "/_not-found/page": "app/_not-found/page.js",
+  "/accounting/quickbooks-alternative/page": "app/accounting/quickbooks-alternative/page.js",
+  "/accounting/freshbooks-alternative/page": "app/accounting/freshbooks-alternative/page.js"
 }
