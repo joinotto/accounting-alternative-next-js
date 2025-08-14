@@ -964,6 +964,9 @@ h1, h2, h3, h4, h5, h6, p {
 .mr-3{
   margin-right: 0.75rem;
 }
+.mt-1{
+  margin-top: 0.25rem;
+}
 .block{
   display: block;
 }
@@ -1213,6 +1216,9 @@ h1, h2, h3, h4, h5, h6, p {
 .flex-1{
   flex: 1 1 0%;
 }
+.flex-shrink-0{
+  flex-shrink: 0;
+}
 .shrink-0{
   flex-shrink: 0;
 }
@@ -1330,6 +1336,9 @@ h1, h2, h3, h4, h5, h6, p {
 }
 .items-stretch{
   align-items: stretch;
+}
+.justify-start{
+  justify-content: flex-start;
 }
 .justify-center{
   justify-content: center;
@@ -1762,6 +1771,9 @@ h1, h2, h3, h4, h5, h6, p {
 }
 .text-center{
   text-align: center;
+}
+.align-top{
+  vertical-align: top;
 }
 .align-middle{
   vertical-align: middle;

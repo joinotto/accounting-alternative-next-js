@@ -35,6 +35,46 @@
       "static/chunks/webpack.js",
       "static/chunks/main-app.js",
       "static/chunks/app/accounting/freshbooks-alternative/layout.js"
+    ],
+    "/accounting/wave-alternative/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/accounting/wave-alternative/page.js"
+    ],
+    "/accounting/wave-alternative/layout": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/accounting/wave-alternative/layout.js"
+    ],
+    "/accounting/xero-alternative/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/accounting/xero-alternative/page.js"
+    ],
+    "/accounting/xero-alternative/layout": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/accounting/xero-alternative/layout.js"
+    ],
+    "/accounting/sage-alternative/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/accounting/sage-alternative/page.js"
+    ],
+    "/accounting/sage-alternative/layout": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/accounting/sage-alternative/layout.js"
+    ],
+    "/accounting/collective-alternative/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/accounting/collective-alternative/page.js"
+    ],
+    "/accounting/collective-alternative/layout": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/accounting/collective-alternative/layout.js"
     ]
   }
 }
