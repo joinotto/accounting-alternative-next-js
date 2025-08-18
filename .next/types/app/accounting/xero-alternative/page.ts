@@ -1,4 +1,4 @@
-// File: /Users/ashishkohli/Downloads/accounting-alternative-next-js-main/src/app/accounting/xero-alternative/page.tsx
+// File: /Users/ashishkohli/Desktop/accounting-alternative-otto/accounting-alternative-next-js/src/app/accounting/xero-alternative/page.tsx
 import * as entry from '../../../../../src/app/accounting/xero-alternative/page.js'
 import type { ResolvingMetadata, ResolvingViewport } from 'next/dist/lib/metadata/types/metadata-interface.js'
 
