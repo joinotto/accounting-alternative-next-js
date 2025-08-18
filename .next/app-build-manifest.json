@@ -1,40 +1,131 @@
 {
   "pages": {
     "/not-found": [
-      "static/chunks/webpack.js",
-      "static/chunks/main-app.js",
-      "static/chunks/app/not-found.js"
+      "static/chunks/webpack-0954c5d36ad957a9.js",
+      "static/chunks/fd9d1056-9e191f0896c1d560.js",
+      "static/chunks/117-bee889d94f8d5a9e.js",
+      "static/chunks/main-app-8c5da7470e55a727.js",
+      "static/chunks/app/not-found-32236429fa49fe8a.js"
     ],
     "/_not-found/page": [
-      "static/chunks/webpack.js",
-      "static/chunks/main-app.js",
-      "static/chunks/app/_not-found/page.js"
+      "static/chunks/webpack-0954c5d36ad957a9.js",
+      "static/chunks/fd9d1056-9e191f0896c1d560.js",
+      "static/chunks/117-bee889d94f8d5a9e.js",
+      "static/chunks/main-app-8c5da7470e55a727.js",
+      "static/chunks/app/_not-found/page-56b98ff52dba864f.js"
     ],
     "/layout": [
-      "static/chunks/webpack.js",
-      "static/chunks/main-app.js",
-      "static/css/app/layout.css",
-      "static/chunks/app/layout.js"
+      "static/chunks/webpack-0954c5d36ad957a9.js",
+      "static/chunks/fd9d1056-9e191f0896c1d560.js",
+      "static/chunks/117-bee889d94f8d5a9e.js",
+      "static/chunks/main-app-8c5da7470e55a727.js",
+      "static/css/6eb7046392d71cd0.css",
+      "static/chunks/44-575531b7725f9ce5.js",
+      "static/chunks/487-dee900b6216780e9.js",
+      "static/chunks/app/layout-efe9b1a904a146a8.js"
     ],
-    "/accounting/xero-alternative/page": [
-      "static/chunks/webpack.js",
-      "static/chunks/main-app.js",
-      "static/chunks/app/accounting/xero-alternative/page.js"
+    "/page": [
+      "static/chunks/webpack-0954c5d36ad957a9.js",
+      "static/chunks/fd9d1056-9e191f0896c1d560.js",
+      "static/chunks/117-bee889d94f8d5a9e.js",
+      "static/chunks/main-app-8c5da7470e55a727.js",
+      "static/chunks/app/page-c09b8cb5d20c38c5.js"
     ],
-    "/accounting/xero-alternative/layout": [
-      "static/chunks/webpack.js",
-      "static/chunks/main-app.js",
-      "static/chunks/app/accounting/xero-alternative/layout.js"
+    "/accounting/collective-alternative/page": [
+      "static/chunks/webpack-0954c5d36ad957a9.js",
+      "static/chunks/fd9d1056-9e191f0896c1d560.js",
+      "static/chunks/117-bee889d94f8d5a9e.js",
+      "static/chunks/main-app-8c5da7470e55a727.js",
+      "static/chunks/44-575531b7725f9ce5.js",
+      "static/chunks/317-bafffcfbf1b65d34.js",
+      "static/chunks/app/accounting/collective-alternative/page-71ed6e4a5d281d2f.js"
+    ],
+    "/accounting/collective-alternative/layout": [
+      "static/chunks/webpack-0954c5d36ad957a9.js",
+      "static/chunks/fd9d1056-9e191f0896c1d560.js",
+      "static/chunks/117-bee889d94f8d5a9e.js",
+      "static/chunks/main-app-8c5da7470e55a727.js",
+      "static/chunks/app/accounting/collective-alternative/layout-f396d6d630250270.js"
     ],
     "/accounting/quickbooks-alternative/page": [
-      "static/chunks/webpack.js",
-      "static/chunks/main-app.js",
-      "static/chunks/app/accounting/quickbooks-alternative/page.js"
+      "static/chunks/webpack-0954c5d36ad957a9.js",
+      "static/chunks/fd9d1056-9e191f0896c1d560.js",
+      "static/chunks/117-bee889d94f8d5a9e.js",
+      "static/chunks/main-app-8c5da7470e55a727.js",
+      "static/chunks/44-575531b7725f9ce5.js",
+      "static/chunks/317-bafffcfbf1b65d34.js",
+      "static/chunks/app/accounting/quickbooks-alternative/page-2289eb941bf30377.js"
     ],
     "/accounting/quickbooks-alternative/layout": [
-      "static/chunks/webpack.js",
-      "static/chunks/main-app.js",
-      "static/chunks/app/accounting/quickbooks-alternative/layout.js"
+      "static/chunks/webpack-0954c5d36ad957a9.js",
+      "static/chunks/fd9d1056-9e191f0896c1d560.js",
+      "static/chunks/117-bee889d94f8d5a9e.js",
+      "static/chunks/main-app-8c5da7470e55a727.js",
+      "static/chunks/app/accounting/quickbooks-alternative/layout-29642ba3151973dc.js"
+    ],
+    "/accounting/wave-alternative/page": [
+      "static/chunks/webpack-0954c5d36ad957a9.js",
+      "static/chunks/fd9d1056-9e191f0896c1d560.js",
+      "static/chunks/117-bee889d94f8d5a9e.js",
+      "static/chunks/main-app-8c5da7470e55a727.js",
+      "static/chunks/44-575531b7725f9ce5.js",
+      "static/chunks/317-bafffcfbf1b65d34.js",
+      "static/chunks/app/accounting/wave-alternative/page-8f53a81d25c0198e.js"
+    ],
+    "/accounting/wave-alternative/layout": [
+      "static/chunks/webpack-0954c5d36ad957a9.js",
+      "static/chunks/fd9d1056-9e191f0896c1d560.js",
+      "static/chunks/117-bee889d94f8d5a9e.js",
+      "static/chunks/main-app-8c5da7470e55a727.js",
+      "static/chunks/app/accounting/wave-alternative/layout-0c2ac194b15e855b.js"
+    ],
+    "/accounting/sage-alternative/page": [
+      "static/chunks/webpack-0954c5d36ad957a9.js",
+      "static/chunks/fd9d1056-9e191f0896c1d560.js",
+      "static/chunks/117-bee889d94f8d5a9e.js",
+      "static/chunks/main-app-8c5da7470e55a727.js",
+      "static/chunks/44-575531b7725f9ce5.js",
+      "static/chunks/317-bafffcfbf1b65d34.js",
+      "static/chunks/app/accounting/sage-alternative/page-543c3d58f288b404.js"
+    ],
+    "/accounting/sage-alternative/layout": [
+      "static/chunks/webpack-0954c5d36ad957a9.js",
+      "static/chunks/fd9d1056-9e191f0896c1d560.js",
+      "static/chunks/117-bee889d94f8d5a9e.js",
+      "static/chunks/main-app-8c5da7470e55a727.js",
+      "static/chunks/app/accounting/sage-alternative/layout-a04143adf3ac78e4.js"
+    ],
+    "/accounting/xero-alternative/page": [
+      "static/chunks/webpack-0954c5d36ad957a9.js",
+      "static/chunks/fd9d1056-9e191f0896c1d560.js",
+      "static/chunks/117-bee889d94f8d5a9e.js",
+      "static/chunks/main-app-8c5da7470e55a727.js",
+      "static/chunks/44-575531b7725f9ce5.js",
+      "static/chunks/317-bafffcfbf1b65d34.js",
+      "static/chunks/app/accounting/xero-alternative/page-8edc974468bd040d.js"
+    ],
+    "/accounting/xero-alternative/layout": [
+      "static/chunks/webpack-0954c5d36ad957a9.js",
+      "static/chunks/fd9d1056-9e191f0896c1d560.js",
+      "static/chunks/117-bee889d94f8d5a9e.js",
+      "static/chunks/main-app-8c5da7470e55a727.js",
+      "static/chunks/app/accounting/xero-alternative/layout-1fbb742eee392ab7.js"
+    ],
+    "/accounting/freshbooks-alternative/page": [
+      "static/chunks/webpack-0954c5d36ad957a9.js",
+      "static/chunks/fd9d1056-9e191f0896c1d560.js",
+      "static/chunks/117-bee889d94f8d5a9e.js",
+      "static/chunks/main-app-8c5da7470e55a727.js",
+      "static/chunks/44-575531b7725f9ce5.js",
+      "static/chunks/317-bafffcfbf1b65d34.js",
+      "static/chunks/app/accounting/freshbooks-alternative/page-9d2a68e219df2d85.js"
+    ],
+    "/accounting/freshbooks-alternative/layout": [
+      "static/chunks/webpack-0954c5d36ad957a9.js",
+      "static/chunks/fd9d1056-9e191f0896c1d560.js",
+      "static/chunks/117-bee889d94f8d5a9e.js",
+      "static/chunks/main-app-8c5da7470e55a727.js",
+      "static/chunks/app/accounting/freshbooks-alternative/layout-c8e26ea7797bb746.js"
     ]
   }
 }
