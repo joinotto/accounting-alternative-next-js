@@ -10,25 +10,37 @@ import FaqSection from "@/components/FaqSection";
 
 const xeroalternativesfaqs = [
   {
-    question: "Why is Otto AI a better choice than Invoicely for growing businesses?",
-    answer: "Otto AI includes unlimited clients, advanced features like inventory tracking and AI-powered invoice creation, and powerful client management tools—all available for free. Invoicely limits key features to paid plans, which can hold back your business as it grows."
+    question: "How does Otto AI improve on Xero’s bank reconciliation?",
+    answer: "Otto AI reconciles automatically 24/7, whereas Xero still requires manual approval of rules and matches."
   },
   {
-    question: "How do Otto AI invoice customization options compare to Invoicely?",
-    answer: "Otto AI offers rich customization with drag-and-drop editing, flexible layouts, and deep branding controls so your invoices truly reflect your style. Invoicely’s customization is basic, with limited template adjustments, which may not meet the needs of creative professionals."
+    question: "Can Otto AI help with faster filing and tax prep?",
+    answer: "Yes, Otto AI includes smart deduction identification and generates CPA-ready reports automatically."
   },
   {
-    question: "Can Otto AI generate invoices offline unlike Invoicely?",
-    answer: "Yes! Otto AI allows you to draft and edit invoices offline, giving you flexibility to work anywhere, anytime. Invoicely requires an internet connection for most tasks, making it less reliable for freelancers on the go or in areas with poor connectivity."
+    question: "Does the platform offer AI-generated business insights?",
+    answer: "Absolutely, Otto AI surfaces plain language KPIs and trends, while Xero gives static reports."
   },
   {
-    question: "Does Otto AI offer better payment options than Invoicely?",
-    answer: "Absolutely. Otto AI supports multiple payment gateways like PayPal, Stripe, ACH, UPI, and offline payments, giving your clients flexibility to pay however they prefer. Invoicely’s payment methods are limited, which can slow down your cash flow."
+    question: "Can I ask natural questions like “Which client paid late this month?”",
+    answer: "Yes, Otto AI includes conversational AI, unlike Xero."
   },
   {
-    question: "How do Otto AI reporting tools compare to Invoicely’s?",
-    answer: "Otto AI delivers advanced, visual reports with real-time insights, customizable filters, and automated tax summaries to help you make smarter business decisions. Invoicely’s reporting is basic and lacks the depth many freelancers and small businesses need for comprehensive financial analysis."
+    question: "Does Otto AI consolidate multiple business entities?",
+    answer: "Yes, you can manage multiple entities from one dashboard. Xero requires separate subscriptions."
   },
+  {
+    question: "Is there real-time anomaly detection?",
+    answer: "Yes, Otto AI continuously monitors and flags suspicious entries. Xero does not."
+  },
+  {
+    question: "Can I track income from Venmo, PayPal, Zelle automatically?",
+    answer: "Yes, you get automatic import and categorization from all those platforms."
+  },
+  {
+    question: "What if my books are outdated, can Otto AI catch up automatically?",
+    answer: "Yes, catch-up bookkeeping gets your books correct quickly, while Xero expects manual cleanup."
+  }
 ];
 
 const AlternativeXero = () => {

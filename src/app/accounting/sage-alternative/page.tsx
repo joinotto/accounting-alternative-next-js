@@ -12,25 +12,37 @@ import FaqSection from "@/components/FaqSection";
 const SageAlternativeInvoicer = () => {
   const sagealternativesfaqs = [
     {
-      question: "Why switch from Invoicer.ai to Otto AI?",
-      answer: "Otto AI invoice generator offers unlimited invoices, advanced customization, and offline access, features Invoicer.ai lacks or limits behind paywalls. It’s built for creators and service businesses that need more flexibility without extra fees or platform restrictions."
+      question: "Does Otto AI offer real-time reconciliation compared to Sage’s manual process?",
+      answer: "Yes, unlike Sage, Otto AI reconciles transactions continuously without manual effort."
     },
     {
-      question: "Does Otto AI have any invoice limits like Invoicer.ai?",
-      answer: "No. Otto AI allows unlimited invoice creation on all plans, including free. Invoicer.ai limits usage unless you upgrade, which can slow down business as you grow or handle more clients."
+      question: "Does Otto AI use AI for receipts and invoice capture?",
+      answer: "Yes, Otto AI includes built-in OCR capture. Sage relies on third-party integrations."
     },
     {
-      question: "Is Otto AI better for international clients than Invoicer.ai?",
-      answer: "Yes. Otto AI supports multi-currency invoice generation and localized tax formats, making it easier to bill global clients. Invoicer.ai has limited support for international currencies and compliance needs."
+      question: "Will Otto AI help me find tax deductions automatically?",
+      answer: "Yes, Otto AI flags niche deductions continuously. Sage’s AI assistance (Copilot) is still limited."
     },
     {
-      question: "Does Otto AI work on mobile?",
-      answer: "Absolutely. Otto AI invoice generator is fully mobile-responsive, so you can create, edit, and send invoices from your phone or tablet just as easily as from a desktop."
+      question: "Can Otto AI provide plain-language insights from my data?",
+      answer: "Yes, Otto AI turns your data into clear business stories. Sage offers standard dashboards only."
     },
     {
-      question: "Is there a limit to how many invoices I can send?",
-      answer: "No, there’s absolutely no cap. Otto AI lets you create and send unlimited invoices, even on the free plan. You’ll never be forced to upgrade just because your business is growing or your clients increase."
+      question: "Does Otto AI support multi-entity and departmental consolidation?",
+      answer: "Yes, you can monitor multiple entities in one place. Sage typically requires separate accounts."
     },
+    {
+      question: "Is there an AI chat accountant to ask financial questions?",
+      answer: "Yes, Otto AI lets you ask and get answers instantly, while Sage doesn’t yet offer that kind of chat AI."
+    },
+    {
+      question: "Can Otto AI detect fraud or errors in real time?",
+      answer: "Yes, automated anomaly detection helps catch issues early, which Sage does not include."
+    },
+    {
+      question: "What about tax filing and compliance; which platform handles it better?",
+      answer: "Otto AI automates vendor compliance, deduction tracking, and tax-ready reporting. Sage does not."
+    }
   ];
 
   return (

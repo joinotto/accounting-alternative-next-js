@@ -12,25 +12,37 @@ import FaqSection from "@/components/FaqSection";
 const AlternativeWave = () => {
   const wavefaqs = [
     {
-      question: "How does Otto AI’s pricing compare to HoneyBook?",
-      answer: "Otto AI offers a fully-featured free plan with unlimited invoicing, client management, and advanced tools. HoneyBook doesn’t have a free plan—after a 7-day trial, you must subscribe to a paid plan starting at $16/month, making Otto AI the more budget-friendly choice for freelancers and small businesses."
+      question: "Wave is free, why should I upgrade to Otto AI?",
+      answer: "Because Otto AI includes continuous reconciliation, multi-platform income tracking, AI insights, and tax support that Wave doesn’t offer."
     },
     {
-      question: "Can I send standalone invoices with Otto AI unlike HoneyBook?",
-      answer: "Yes! Otto AI allows you to create and send standalone invoices at any time. HoneyBook requires every invoice to be linked to a project, forcing unnecessary steps that slow down your billing process and add complexity when you just need to invoice quickly."
+      question: "Will Otto AI help me categorize recurring expenses automatically?",
+      answer: "Yes, Otto AI learns and categorizes transactions consistently, unlike Wave’s more manual system."
     },
     {
-      question: "How flexible are Otto AI’s payment options compared to HoneyBook?",
-      answer: "Otto AI supports a wide range of payment gateways, including PayPal, Stripe, ACH, UPI, and offline payments. HoneyBook only works with its built-in payment processor, which limits flexibility for your clients and can restrict your ability to get paid in their preferred way."
+      question: "Can I capture receipts and bills via mobile camera?",
+      answer: "Yes, our mobile OCR technology captures and matches images directly, while Wave’s is more manual."
     },
     {
-      question: "Does Otto AI provide better offline access than HoneyBook?",
-      answer: "Absolutely. Otto AI lets you draft and edit invoices offline, so you can keep working anywhere—even without internet. HoneyBook requires a stable internet connection at all times, making it unreliable for users in areas with poor connectivity or for those who work on the go."
+      question: "Does Otto AI support multiple pay apps like PayPal and Zelle?",
+      answer: "Yes, Otto AI imports from modern income platforms automatically, unlike Wave."
     },
     {
-      question: "Are Otto AI’s reporting and analytics more advanced than HoneyBook’s?",
-      answer: "Yes! Otto AI offers comprehensive, customizable reports with real-time financial insights, income tracking, and detailed expense analysis. HoneyBook’s reporting is basic and geared more toward project pipelines than deep financial analytics, leaving gaps for businesses needing robust financial visibility."
+      question: "Can I see real-time dashboards?",
+      answer: "Yes, Otto AI updates your financial data live. Wave requires export for reporting."
     },
+    {
+      question: "Will Otto AI flag unusual transactions or anomalies?",
+      answer: "Definitely, it scans continuously and flags errors or oddities immediately."
+    },
+    {
+      question: "Is there built-in tax deduction help?",
+      answer: "Yes, Otto AI identifies possible deductions in real time. Wave doesn’t include this feature."
+    },
+    {
+      question: "What if my books are behind, can Otto AI fix it instantly?",
+      answer: "Yes, catch-up bookkeeping ensures your accounts are back up to date quickly."
+    }
   ];
 
   return (

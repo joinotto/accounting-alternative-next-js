@@ -9,25 +9,37 @@ import { Table, TableBody, TableCell, TableHead, TableHeader, TableRow } from "@
 import FaqSection from "@/components/FaqSection";
 const collectivefaqs = [
   {
-    question: "Why is Otto AI a better alternative to Collective for freelancers?",
-    answer: "Otto AI gives freelancers and small businesses unlimited invoices, advanced customization, and modern client management—all for free. Unlike Collective, which imposes limits on attachments and relies on outdated interfaces, Otto AI streamlines invoicing with a modern, intuitive design that saves time and enhances professionalism."
+    question: "How is Otto AI different from Collective’s service-first model?",
+    answer: "Otto AI delivers real-time automation and AI insights, while Collective relies on scheduled manual processing by accountants."
   },
   {
-    question: "Does Otto AI have attachment limits like WaveApps?",
-    answer: "No. Otto AI lets you attach unlimited files of practical sizes to your invoices without forcing you onto a paid plan. In contrast, WaveApps restricts attachments to 25 files with a total size cap of 20MB—and only for Pro plan subscribers—creating unnecessary obstacles for sharing important documents."
+    question: "Does Otto AI update your books continuously or after reports?",
+    answer: "Continuous, Otto AI reconciles and updates automatically. Collective provides monthly reports."
   },
   {
-    question: "How does Otto AI’s customer support compare to WaveApps?",
-    answer: "Otto AI provides dedicated, human support in multiple languages even on its free plan, so you’re never left in the dark. WaveApps restricts direct support for free users to help centers and chatbots, which can leave you stuck when you need personalized assistance."
+    question: "Can I do invoicing and bill pay inside the platform?",
+    answer: "Yes, Otto AI includes native invoicing and bill automation. Collective requires separate tools."
   },
   {
-    question: "Does Otto AI offer automated late fees like WaveApps?",
-    answer: "Yes. Otto AI automates late fees by adding them to overdue invoices and sending updates to your clients, helping you get paid faster. WaveApps lacks automatic late fee functionality—forcing you to manually add fees as separate line items and resend invoices, which wastes time and delays payments."
+    question: "Does Otto AI offer AI-driven tax deduction identification?",
+    answer: "Yes, Otto AI flags deductions instantly. Collective relies on manual review by your team."
   },
   {
-    question: "Is Otto AI more scalable for growing businesses than WaveApps?",
-    answer: "Absolutely. While WaveApps is best suited for freelancers or very small businesses, Otto AI includes scalable tools like unlimited invoicing, inventory and barcode management, offline functionality, and integrated client portals—empowering you to grow without switching platforms or paying hidden fees."
+    question: "Will I get live dashboards and KPI insights?",
+    answer: "Yes, Otto AI offers real-time analytics. Collective delivers periodic reports only."
   },
+  {
+    question: "Can I manage multiple entities in one place?",
+    answer: "Yes, you can consolidate entities in Otto AI. Collective serves single entities only."
+  },
+  {
+    question: "Is there a chat-based AI accountant for quick questions?",
+    answer: "Yes. Otto AI includes conversational AI, whereas Collective uses scheduled messaging."
+  },
+  {
+    question: "What if I fall behind, does Collective or Otto AI catch up faster?",
+    answer: "Otto AI provides instant catch-up bookkeeping. Collective relies on manual backlog cleanup"
+  }
 ];
 
 const AlternativeCollective = () => {

@@ -9,25 +9,37 @@ import { Table, TableBody, TableCell, TableHead, TableHeader, TableRow } from "@
 import FaqSection from "@/components/FaqSection";
 const freshbooksfaqs = [
   {
-    question: "Why choose Otto AI over FreshBooks for invoicing?",
-    answer: "Otto AI gives you unlimited clients, advanced invoice customization, and powerful features like time tracking and tax automation—for free. FreshBooks limits clients on lower-tier plans and locks essential features behind costly subscriptions, making Otto AI a smarter, more affordable choice for freelancers and small businesses."
+    question: "Can Otto AI replace FreshBooks if I rely on time-tracking or freelancer tools?",
+    answer: "Yes. Otto AI covers all invoicing and expense features and adds real-time reconciliation and AI insights, plus FreshBooks’ time-tracking can be paired via integration."
   },
   {
-    question: "Does Otto AI charge extra for additional users like FreshBooks?",
-    answer: "No. Otto AI includes multi-user support for free, so your team can collaborate without extra fees. FreshBooks charges $11 per month for each additional user beyond the account owner, which can quickly become expensive for growing teams."
+    question: "Does Otto AI include AI-powered receipt scanning?",
+    answer: "Yes, Otto AI OCR captures and matches receipts automatically. FreshBooks is more manual in that area."
   },
   {
-    question: "How does Otto AI handle time tracking compared to FreshBooks?",
-    answer: "Otto AI includes built-in time tracking on all plans, letting you log hours and convert them into invoices effortlessly. FreshBooks doesn’t offer time tracking in its Lite plan, forcing service-based freelancers to upgrade just to access this essential feature."
+    question: "Will Otto AI help me detect tax deductions unique to my industry?",
+    answer: "Absolutely, Otto AI engine identifies niche deductions like equipment for photographers that FreshBooks doesn’t highlight."
   },
   {
-    question: "Is Otto AI better for inventory management than FreshBooks?",
-    answer: "Yes! Otto AI provides integrated inventory and SKU tracking, perfect for product-based businesses. FreshBooks doesn’t include native inventory tools, requiring separate software to track stock, which adds cost and complexity."
+    question: "Is there a dashboard that shows business insights in non-accounting language?",
+    answer: "Yes. Otto AI gives plain-language, AI-powered insights like “Your revenue is up 25% this month,” not just financial line items."
   },
   {
-    question: "How do Otto AI’s reporting tools compare to FreshBooks?",
-    answer: "Otto AI delivers advanced, visual, and customizable reports available on all plans, so you always have the insights you need. FreshBooks limits advanced reporting to higher-tier plans, making it harder for freelancers on Lite or Plus plans to get detailed financial analytics."
+    question: "How does hourly invoicing compare between platforms?",
+    answer: "Otto AI includes flexible invoicing plus automation, while FreshBooks focuses more on simple invoicing workflows."
   },
+  {
+    question: "Can I instantly reconcile payments from PayPal, Venmo, and Zelle?",
+    answer: "Yes, Otto AI automatically imports and categorizes across popular platforms, whereas FreshBooks does not support that out of the box."
+  },
+  {
+    question: "Does Otto AI support late invoice reminders?",
+    answer: "Yes, automated payment reminders are built in, without manual setup every month."
+  },
+  {
+    question: "What happens if I fall a few months behind?",
+    answer: "Otto AI includes catch-up bookkeeping, your accounts get updated quickly, unlike FreshBooks, which expects manual reconciliation."
+  }
 ];
 
 const AlternativeFreshBooks = () => {

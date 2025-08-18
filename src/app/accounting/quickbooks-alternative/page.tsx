@@ -9,25 +9,37 @@ import { Table, TableBody, TableCell, TableHead, TableHeader, TableRow } from "@
 import FaqSection from "@/components/FaqSection";
 const quickbooksfaqs = [
   {
-    question: "What makes Otto AI a better QuickBooks alternative for creators and freelancers?",
-    answer: "Otto AI is specifically designed for creative professionals, offering unlimited invoicing, fully customizable templates, AI-assisted invoice creation, and modern client management tools—all available for free. Unlike QuickBooks, Otto AI doesn’t limit invoice volume or require complex upgrades, giving freelancers and small businesses a flexible invoicing solution from day one."
+    question: "Can I switch from QuickBooks to Otto AI without losing data?",
+    answer: "Absolutely, Otto AI supports seamless data import from QuickBooks, including transactions, categorizations, and customer records, so your financial history stays intact."
   },
   {
-    question: "Does Otto AI have limits on invoices or purchase orders like QuickBooks?",
-    answer: "No, Otto AI provides unlimited invoices and purchase orders on all plans, even the free tier. QuickBooks, on the other hand, often limits invoice and purchase order quantities based on your subscription, which can restrict your growth or force costly upgrades as your business expands."
+    question: "Does Otto AI offer bank feeds and automatic reconciliation?",
+    answer: "Yes. Otto AI provides continuous, real-time bank feed reconciliation, far beyond QuickBooks’ manual process."
   },
   {
-    question: "Can Otto AI help me with tax calculations and compliance better than QuickBooks?",
-    answer: "Yes! Otto AI includes automated tax estimation and region-specific compliance tools, like GST calculations and 1099 summaries, built right into the platform. QuickBooks often requires manual setup or advanced plans to access similar tax features, making Otto AI simpler and faster for busy creators."
+    question: "Will Otto AI help me uncover tax deductions automatically?",
+    answer: "Yes. Otto AI includes AI-powered tax deduction identification that flags industry-specific write-offs without manual searching."
   },
   {
-    question: "How does Otto AI’s payment flexibility compare to QuickBooks?",
-    answer: "Otto AI supports a wide range of payment methods—including ACH, credit/debit cards, PayPal, UPI, and offline payments—so your clients can pay however they prefer. QuickBooks’ payment options can feel limited and may incur higher transaction fees, reducing convenience for your clients."
+    question: "Can I ask questions like “Which project made the most profit this month?”",
+    answer: "Definitely. Otto AI includes a chat-based AI accountant that answers business queries in plain language instantly."
   },
   {
-    question: "Does Otto AI offer better client engagement tools than QuickBooks?",
-    answer: "Definitely. Otto AI comes with a dedicated client portal, WhatsApp integration for easy communication, and advanced client management features like smart notes and automatic reminders. QuickBooks provides only basic client records without integrated messaging or a client-facing portal, limiting your ability to build strong client relationships."
+    question: "What happens if my books fall behind?",
+    answer: "Otto AI offers built-in catch-up bookkeeping. Our system flags missing transactions and helps you get back on track fast."
   },
+  {
+    question: "Is there a mobile app to manage accounting on the go?",
+    answer: "Yes, you get a sleek mobile interface for capturing receipts, sending invoices, and checking your dashboard anywhere."
+  },
+  {
+    question: "How does Otto AI improve collaboration with accountants?",
+    answer: "You can invite your accountant in with just one click, and they get real-time visibility, no separate login or exports needed."
+  },
+  {
+    question: "Is Otto AI secure and reliable?",
+    answer: "Completely. We use bank-grade encryption and automated backups in secure Document Vaults (e.g. G-Drive integration) to protect your data."
+  }
 ];
 
 const AlternativeQuickbooks = () => {

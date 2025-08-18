@@ -1,4 +1,5 @@
 {
+  "/accounting/quickbooks-alternative/page": "app/accounting/quickbooks-alternative/page.js",
   "/accounting/freshbooks-alternative/page": "app/accounting/freshbooks-alternative/page.js",
   "/accounting/wave-alternative/page": "app/accounting/wave-alternative/page.js",
   "/accounting/xero-alternative/page": "app/accounting/xero-alternative/page.js",
