@@ -1,0 +1,12 @@
+2:I[9107,[],"ClientPageRoot"]
+3:I[2011,["931","static/chunks/app/page-6b14fe8e243dcfb8.js"],"default",1]
+4:I[9314,["44","static/chunks/44-575531b7725f9ce5.js","504","static/chunks/504-da013446f0ab3ab5.js","185","static/chunks/app/layout-ee211a35e1ee64e5.js"],"Providers"]
+5:I[1322,["44","static/chunks/44-575531b7725f9ce5.js","504","static/chunks/504-da013446f0ab3ab5.js","185","static/chunks/app/layout-ee211a35e1ee64e5.js"],"Provider"]
+6:I[6878,["44","static/chunks/44-575531b7725f9ce5.js","504","static/chunks/504-da013446f0ab3ab5.js","185","static/chunks/app/layout-ee211a35e1ee64e5.js"],"Toaster"]
+7:I[4903,["44","static/chunks/44-575531b7725f9ce5.js","504","static/chunks/504-da013446f0ab3ab5.js","185","static/chunks/app/layout-ee211a35e1ee64e5.js"],"Toaster"]
+8:I[4707,[],""]
+9:I[6423,[],""]
+a:I[5292,["160","static/chunks/app/not-found-85d873ae70031a5b.js"],"default"]
+0:["build-1755518459048",[[["",{"children":["__PAGE__",{}]},"$undefined","$undefined",true],["",{"children":["__PAGE__",{},[["$L1",["$","$L2",null,{"props":{"params":{},"searchParams":{}},"Component":"$3"}],null],null],null]},[[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/6eb7046392d71cd0.css","precedence":"next","crossOrigin":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"className":"__className_e8ce0c","children":["$","$L4",null,{"children":["$","$L5",null,{"children":[["$","$L6",null,{}],["$","$L7",null,{}],["$","$L8",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":["$","$La",null,{}],"notFoundStyles":[]}]]}]}]}]}]],null],null],["$Lb",null]]]]
+b:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"charSet":"utf-8"}],["$","title","2",{"children":"Invoicing Alternatives"}],["$","meta","3",{"name":"description","content":"Find the best invoicing alternatives to popular platforms"}],["$","meta","4",{"name":"next-size-adjust"}]]
+1:null
